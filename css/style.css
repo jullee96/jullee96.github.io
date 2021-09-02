@@ -92,7 +92,7 @@ h2 {font-weight: 24px!important; color: #333!important; font-weight: 500}
 .visual_text02 {color: #fff; width: 400px; opacity: 0.8; line-height: 24px; padding:50px 0}
 
 
-.btn_download {padding:10px 30px 10px 60px; color: #fff;  border-radius: 3px; background: #111 url("../images/icon_download.png") left 30px center no-repeat;}
+.btn_download {padding:10px 30px 10px 60px; color: #fff;  border-radius: 3px; background: #111 url("../images/GitHub-Mark-Light-32px.png") left 15px center no-repeat;}
  a.btn_download { color: #fff; }
  a:hover.btn_download{ opacity: 0.7}
 
@@ -142,7 +142,7 @@ h2 {font-weight: 24px!important; color: #333!important; font-weight: 500}
 .down_text1 {font-size: 26px; color: #46cef2; line-height: 50px; margin-bottom: 50px }
 .down_text2 {font-size: 20px; color: #fff; line-height: 50px; margin-top: 15px }
 
-.btn_download2 {padding:20px 50px 20px 90px;  border-radius: 8px; background: #46cef2 url("../images/icon_download2.png") left 50px center no-repeat; font-size: 20px}
+.btn_download2 {padding:20px 50px 20px 90px;  border-radius: 8px; background: #46cef2 url("../images/icon_email2.png") left 50px center no-repeat; font-size: 20px}
 a.btn_download2 { color: #333; }
 a:hover.btn_download2{ opacity: 0.7}
 
